@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: learndbt 
+    description: This is the Postgres database running in docker
+    database: learndbt
+    schema: public
+    tables:
+      - name: hacker_data 
+        description: >
+          All hacking records from the honeypot data.
