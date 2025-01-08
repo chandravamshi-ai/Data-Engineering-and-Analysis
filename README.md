@@ -8,4 +8,4 @@ This repo contains the projects related to data engineering.
 
 ### Projects
 
-- 🐶 [Dog Adoption](): Create and build data model and ingest data into database with Python and PostgreSQL.
+- 🐶 [Dog Adoption](https://github.com/chandravamshi-ai/Data-Engineering-and-Analysis/tree/main/Dog%20Adoption): Create and build data model and ingest data into database with Python and PostgreSQL.
