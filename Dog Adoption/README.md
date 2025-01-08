@@ -9,6 +9,7 @@ A data engineering project designed to demonstrate the process of creating and m
 
 The goal of this project is to:
 
+![etl](https://github.com/chandravamshi-ai/Data-Engineering-and-Analysis/blob/main/Dog%20Adoption/etl%20img.png)
 1. Create a PostgreSQL database named `dog_adoption`.
 2. Design and populate tables for handling dog adoption data from kaggle dog [datasets](https://www.kaggle.com/datasets/whenamancodes/dog-adoption).
 3. Transform raw data into clean(remove nan rows) - other than this data is clean, structured tables.
