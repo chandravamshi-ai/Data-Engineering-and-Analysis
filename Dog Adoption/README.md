@@ -10,7 +10,7 @@ A data engineering project designed to demonstrate the process of creating and m
 The goal of this project is to:
 
 1. Create a PostgreSQL database named `dog_adoption`.
-2. Design and populate tables for handling dog adoption data from kaggle dog datasets.
+2. Design and populate tables for handling dog adoption data from kaggle dog [datasets](https://www.kaggle.com/datasets/whenamancodes/dog-adoption).
 3. Transform raw data into clean(remove nan rows) - other than this data is clean, structured tables.
 4. Demonstrate data engineering skills, including ETL, database management, and code modularity.
 
