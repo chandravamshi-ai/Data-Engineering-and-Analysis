@@ -162,4 +162,3 @@ dbt run
 
 ---
 
-Feel free to customize this as per your project's needs! Let me know if you want to include any additional details.
